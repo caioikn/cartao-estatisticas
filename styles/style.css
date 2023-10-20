@@ -35,7 +35,7 @@ body {
 }
 
 .imagem {
-    background-image: url('/images/image-header-mobile.jpg');
+    background-image: url('../images/image-header-mobile.jpg');
     background-size: cover;
     border-radius: 8px 8px 0px 0px;
     height: 200px;
@@ -113,7 +113,7 @@ body {
     }
 
     .imagem {
-        background-image: url('/images/image-header-desktop.jpg');
+        background-image: url('../images/image-header-desktop.jpg');
         border-radius: 0px 8px 8px 0px;
         height: 100%;
     }
